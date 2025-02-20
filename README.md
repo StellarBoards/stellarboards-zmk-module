@@ -13,7 +13,7 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: stellarboards-zmk-module
+    - name: stellarboards
       url-base: https://github.com/stellarboards
   projects:
     - name: zmk
