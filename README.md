@@ -20,8 +20,8 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: stellarboards-zmk-module
-      remote: stellarboards
+    - name: stellarboards
+      remote: stellarboards-zmk-module
       revision: main
   self:
     path: config
