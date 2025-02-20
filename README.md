@@ -13,15 +13,15 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: stellarboards-zmk-module
+    - name: stellarboards
       url-base: https://github.com/stellarboards
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: stellarboards-zmk-module
-      remote: stellarboards
+    - name: stellarboards
+      remote: stellarboards-zmk-module
       revision: main
   self:
     path: config
