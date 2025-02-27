@@ -11,7 +11,7 @@
 #include "layouts/default_layout.dtsi"
 #include "layouts/split_space_layout.dtsi"
 
-&kasasagi_default_layout { transform = <&defaul_transform>; };
+&kasasagi_default_layout { transform = <&default_transform>; };
 &kasasagi_split_space_layout { transform = <&split_space_transform>; };
 
 / {
