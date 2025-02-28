@@ -85,7 +85,8 @@ RC(3,0) RC(3,1) RC(3,2)         RC(3,4)         RC(3,6)         RC(3,5) RC(6,3) 
 
     EXT_POWER {
         compatible = "zmk,ext-power-generic";
-        control-gpios = <&gpio0 4 GPIO_ACTIVE_LOW>;
+        control-gpios = <&gpio0 4 GPIO_ACTIVE_HIGH>;
+        init-delay-ms = <100>;
     };
 
     keys {
