@@ -130,6 +130,10 @@ RC(3,0) RC(3,1)                 RC(3,4)                                 RC(6,3) 
     };
 };
 
+&reg0 {
+    status = "okay";
+};
+
 &adc {
     status = "okay";
 };
