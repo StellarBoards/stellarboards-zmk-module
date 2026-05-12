@@ -1,4 +1,4 @@
-# Copyright (c) 2025 The ZMK Contributors
+# Copyright (c) 2026 StellarBoards
 # SPDX-License-Identifier: MIT
 
 set(OPENOCD_NRF5_SUBFAMILY nrf52)

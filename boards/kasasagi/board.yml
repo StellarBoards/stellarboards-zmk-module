@@ -1,0 +1,7 @@
+board:
+  name: kasasagi
+  vendor: stellarboards
+  socs:
+  - name: nrf52840
+    variants:
+    - name: zmk

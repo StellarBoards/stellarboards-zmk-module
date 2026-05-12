@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2025 The ZMK Contributors
+# Copyright (c) 2026 StellarBoards
 # SPDX-License-Identifier: MIT
 #
 
